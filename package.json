@@ -21,7 +21,10 @@
     "rating",
     "ratings"
   ],
-  "author": "lazarmuresan@gmail.com",
+  "author": {
+    "name": "Lazar Muresan",
+    "email": "lazarmuresan@gmail.com"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lmuresan/react-stars-rating/issues"
