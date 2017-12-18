@@ -15,12 +15,12 @@ $ yarn add react-stars-rating
 ```
 ### Usage
 ```javascript
-import {StarsRating} from 'react-stars-rating';
+import StarsRating from 'react-stars-rating';
 ```
 ### Example
 ```js
 import React from 'react';
-import {StarsRating} from 'react-stars-rating';
+import StarsRating from 'react-stars-rating';
 
 class MyComponent extends React.Component {
   render() {
@@ -63,7 +63,7 @@ React.render(<MyComponent />, document.getElementById('app'));
 | darkBlue       | ![#009EEB](https://placehold.it/15/009EEB/000000?text=+) `#009EEB` |
 | lightPurple    | ![#A389F4](https://placehold.it/15/A389F4/000000?text=+) `#A389F4` |
 | purple         | ![#7E5BEF](https://placehold.it/15/7E5BEF/000000?text=+) `#7E5BEF` |
-| darkPurple     | ![#592DEA](https://placehold.it/15/C0CCDA/000000?text=+) `#592DEA` |
+| darkPurple     | ![#592DEA](https://placehold.it/15/592DEA/000000?text=+) `#592DEA` |
 | lightPink      | ![#FF7CE5](https://placehold.it/15/FF7CE5/000000?text=+) `#FF7CE5` |
 | pink           | ![#FF49DB](https://placehold.it/15/FF49DB/000000?text=+) `#FF49DB` |
 | darkPink       | ![#FF16D1](https://placehold.it/15/FF16D1/000000?text=+) `#FF16D1` |
