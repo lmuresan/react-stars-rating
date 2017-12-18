@@ -1,6 +1,6 @@
 {
   "name": "react-stars-rating",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A simple react stars rating component",
   "main": "build/index.js",
   "scripts": {
