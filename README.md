@@ -1,6 +1,6 @@
 # react-stars-rating
 
-<p align="center">
+<p>
   <a href="https://www.npmjs.com/package/react-stars-rating"><img alt="npm Downloads" src="https://img.shields.io/npm/dm/react-stars-rating.svg?maxAge=43200"></a>
 </p>
 
