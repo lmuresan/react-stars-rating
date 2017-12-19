@@ -1,9 +1,5 @@
 # react-stars-rating
 
-<p>
-  <a href="https://www.npmjs.com/package/react-stars-rating"><img alt="npm Downloads" src="https://img.shields.io/npm/dm/react-stars-rating.svg?maxAge=43200"></a>
-</p>
-
 [![NPM](https://nodei.co/npm/react-stars-rating.png?compact=true)](https://npmjs.org/package/react-stars-rating)
 
 react-stars-rting is a react component that allows you to add ratings to your applications.
